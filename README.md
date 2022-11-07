@@ -1,5 +1,11 @@
 # Boas vindas ao repositório do projeto One For All!
 
+<div align="center">
+  <img align="center" src = "Diagrama_DB.jpeg" width=800 />
+ </div>
+<br/>
+<br/>
+
 ## O que foi desenvolvido 👨‍💻
 
 Neste projeto da Trybe de codinome "One For All", realizei a normalização de uma tabela na terceira forma normal, criei seu diagrama e acessei as informações através de queries utilizando SQL com MySQL Workbench.
