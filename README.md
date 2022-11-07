@@ -47,11 +47,6 @@ Neste projeto da Trybe de codinome "One For All", realizei a normalização de u
 > 2. Você pode adicionar manualmente nos arquivos .bashrc, .zshenv ou .zshrc do seu computador a linha `export DOCKER_DEFAULT_PLATFORM=linux/amd64`, essa é uma solução global.
 > As soluções foram com base [nesta fonte](https://stackoverflow.com/a/69636473).
 
-
-✨ **Dica:** A extensão `Remote - Containers` (que estará na seção de extensões recomendadas do VS Code) é indicada para que você possa desenvolver sua aplicação no container Docker direto no VS Code, como você faz com seus arquivos locais.
-
-<img src="images/remote-container.png" width="800px" >
-
  :warning: Atenção :warning: Para que você consiga rodar o seu projeto com docker e o avaliador funcione é fundamental que o seu docker compose esteja na **versão 1.29**
  primeiro verifique sua versão
  > docker-compose --version
