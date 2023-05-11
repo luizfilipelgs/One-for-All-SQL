@@ -170,7 +170,7 @@ MYSQL_USER=root MYSQL_PASSWORD=1234 HOSTNAME=localhost npm test -- -t "01"
 
 
   </details>
-
+<!--
 ## Requisitos do projeto
 
 ## Desafio 1
@@ -422,3 +422,4 @@ Crie uma `QUERY` que exiba o nome e a quantidade de vezes que cada canção foi 
 * Seus resultados devem estar agrupados pelo nome da canção e ordenados em ordem alfabética.
 
 ---
+-->
